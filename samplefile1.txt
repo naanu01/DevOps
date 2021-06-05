@@ -1,1 +1,2 @@
 A Sample file created
+adding a new line to the sample file 1
